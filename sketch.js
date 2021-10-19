@@ -87,7 +87,7 @@ function draw() {
   background(backgroundImg);
   textSize(20);
   fill("black")
-  text("Puntaje: "+ score,30,50);
+  text("Puntuación: "+ score,30,50);
   
   
   if (gameState===PLAY){
